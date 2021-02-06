@@ -1,0 +1,13 @@
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.exe
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.deps.json
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.runtimeconfig.json
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.runtimeconfig.dev.json
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.dll
+C:\Work\Home\mc\functions\exercises\ex01\bin\Debug\netcoreapp3.1\ex01.pdb
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.csprojAssemblyReference.cache
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.AssemblyInfoInputs.cache
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.AssemblyInfo.cs
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.csproj.CoreCompileInputs.cache
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.dll
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.pdb
+C:\Work\Home\mc\functions\exercises\ex01\obj\Debug\netcoreapp3.1\ex01.genruntimeconfig.cache
